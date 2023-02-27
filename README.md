@@ -1,11 +1,19 @@
 ### Hi there 👋
+I'm currently learning how to use github and learning web design. 
+
+I'm looking for help with navigating github so I can start uploading previous projects, try out some new projects, and learn more code. 
+
+📫 How to reach me: rk945@mynsu.nova.edu (Please let me know who you are and that you are from github so I don't accidentally delete your email)
+
+Fun fact is I love cybersecurity and psychology and currently looking how to combine the two in my everyday life. 
+
 
 <!--
 **rejoicekumah/rejoicekumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
