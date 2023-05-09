@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning how to use github and learning web design. 
+I'm currently learning how to use github and cybersecurity. 
 
 I'm looking for help with navigating github so I can start uploading previous projects, try out some new projects, and learn more code. 
 
