@@ -1,11 +1,5 @@
 ### Hi there 👋
-I'm currently learning how to use github and cybersecurity. 
-
-I'm looking for help with navigating github so I can start uploading previous projects, try out some new projects, and learn more code. 
-
-📫 How to reach me: rk945@mynsu.nova.edu (Please let me know who you are and that you are from github so I don't accidentally delete your email)
-
-Fun fact is I love cybersecurity and psychology and currently looking how to combine the two in my everyday life. 
+I'm currently learning how to use github and see if being a developer is right for me. 
 
 
 <!--
