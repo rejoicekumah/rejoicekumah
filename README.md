@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning how to use github and see if being a developer is right for me. 
+I'm currently learning how to use github for my projects and research. 
 
 
 <!--
