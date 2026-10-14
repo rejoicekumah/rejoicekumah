@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning how to use github for my projects and research. 
+I'm currently learning how to use github for my projects and research. Would love help and information on how to utilize GitHub for tech and healthcare. Currently getting my Medical Billing & Coding Certificate and figuring out how to combine cybersecurity and healthcare. 
 
 
 <!--
